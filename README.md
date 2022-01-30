@@ -1,3 +1,3 @@
 # Estructura-de-Datos
 
-Ejercicios resueltos propuestos durante el curso de 2019-2020
+Ejercicios resueltos de DomJudge y propuestos durante el curso de 2019-2020
